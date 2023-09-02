@@ -5,3 +5,4 @@ Project code for Udacity's AI Programming with Python Nanodegree program. In thi
 ## Resources
 
 - [Kaggle Flowers Classification](https://www.kaggle.com/code/youben/flowers-classification-udacity-pytorch-challenge/notebook)
+- [Blogpost by guy](https://www.howieko.com/post/classifying_flowers_pytorch/)
